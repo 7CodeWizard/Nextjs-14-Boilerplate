@@ -1,0 +1,12 @@
+.next
+dist
+.cache
+package-lock.json
+public
+node_modules
+next-env.d.ts
+next.config.ts
+pnpm-lock.yaml
+
+components/ui
+*.tsbuildinfo
